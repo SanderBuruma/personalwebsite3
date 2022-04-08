@@ -1,0 +1,10 @@
+* {
+    color: #0a0;
+    background-color: black;
+    font-family: monospace;
+    font-size: 22px;
+    text-align: center;
+}
+.container {
+    padding: 30px;
+}
